@@ -1,0 +1,5 @@
+#  File types to ignore...
+
+.DS_Store
+
+.ipynb_checkpoints
